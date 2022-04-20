@@ -6,6 +6,7 @@ const appShellFiles = [
   './',
   './index.html',
   './config.js',
+  './sw.js',
   './scripts/js/main.js',
   './scripts/js/bootsrap.min.js',
   './styles/album.css',
