@@ -2,12 +2,13 @@
     "name": "Quotes Outmane Progressive Web App",
     "short_name": "Quotes",
     "description": "Progressive Web App that lists Quotes All day.",
-    "icons": 
+    "icons": [
         {
-            "src": "./images/icon/quote",
+            "src": "./images/icon/quote.png",
             "sizes": "32x32",
             "type": "image/png"
         }
+    ]
     ,
     "start_url": "./index.html",
     "display": "fullscreen"
