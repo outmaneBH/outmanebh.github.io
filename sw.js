@@ -3,15 +3,15 @@ self.importScripts('data/quotes.js');
 // Files to cache
 const cacheName = 'Quotes-v1';
 const appShellFiles = [
-  '/',
-  'index.html',
-  'config.js',
-  'scripts/js/main.js',
-  'scripts/js/bootsrap.min.js',
-  'styles/album.css',
-  'styles/bootstrap.css',
-  'styles/main.css',
-  'images/icon/quote.png'
+  './',
+  './index.html',
+  './config.js',
+  './scripts/js/main.js',
+  './scripts/js/bootsrap.min.js',
+  './styles/album.css',
+  './styles/bootstrap.css',
+  './styles/main.css',
+  './images/icon/quote.png'
 ];
 
 // Installing Service Worker
