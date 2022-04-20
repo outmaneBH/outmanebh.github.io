@@ -5,7 +5,7 @@ const cacheName = 'Quotes-v1';
 const appShellFiles = [
   '/',
   'index.html',
-  'scripts/config/config.js',
+  'config.js',
   'scripts/js/main.js',
   'scripts/js/bootsrap.min.js',
   'styles/album.css',
